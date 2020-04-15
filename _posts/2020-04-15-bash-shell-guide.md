@@ -1,9 +1,8 @@
-Bash Shell Guide
-===
-
 ---
-
-
+title: Bash Shell Guide 
+categories: [bash, shell script]
+tags: [bash, shell script, linux]
+---
 
 
 ### References 
